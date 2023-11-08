@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align='center'>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=smarth2o" /></a>
+</p>
 
 <!--
 **smarth2o/smarth2o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
