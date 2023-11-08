@@ -1,9 +1,4 @@
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarth2o&exclude_repo=smarth2o.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=smarth2o&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dobbynotfree)](https://solved.ac/dobbynotfree/)
 
 <!--
 **smarth2o/smarth2o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarth2o&exclude_repo=smarth2o.github.io&layout=compact" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=smarth2o&show_icons=true" width="42%" />
+</a>
+
+
 -->
