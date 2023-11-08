@@ -1,5 +1,4 @@
 
-[![Hyeonjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=smarth2o&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/smarth2o/github-readme-stats)
 
 
 <!--
@@ -17,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dobbynotfree)](https://solved.ac/dobbynotfree/)
+[![Hyeonjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=smarth2o&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/smarth2o/github-readme-stats)
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarth2o&exclude_repo=smarth2o.github.io&layout=compact" />
 </a>
